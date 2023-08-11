@@ -1,3 +1,5 @@
 const COLORS = {
-    primary: "#fefefe"
+    primary: "#2e2e2e"
 }
+
+export default COLORS
