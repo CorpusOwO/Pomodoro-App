@@ -1,0 +1,10 @@
+.expo
+node_modules
+.gitignore
+app.json
+babel.config.js
+package-lock.json
+package.json
+dist
+.eslintrc.json
+.prettierrc
